@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VCheckLib.cBP1Layer&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQABAAAABBAgAAQBAAAAAAAAAAAAAAEGAAAgA=</HashCode>
+      <FileName>cBP1Layer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VCheckLib.cBP2Layer&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQABAAAABBAgAAQBAAAABAAAAAAAEAEGAAAgA=</HashCode>
+      <FileName>cBP2Layer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VCheckLib.cBP3Layer&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAAAAQABAAAABBAgAAQBAAAABAAAAAAAEAEGAAAkA=</HashCode>
+      <FileName>cBP3Layer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VCheckLib.NeuralEventArgs" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAACAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>cBPBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cDatabase" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAkAAAAQAAAARIAAAABAAAAA=</HashCode>
+      <FileName>cDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cDetect" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAQAAAAAAMAAgAAAIAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>cDetect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cGeoCoder" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAKAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>cGeoCoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cHash" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAQAAAAAAAAAAAgAAAAAAAACAAAAAA=</HashCode>
+      <FileName>cHash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cImageProcessing" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>cImageProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cNeuralNetwork&lt;T&gt;">
+    <Position X="9.5" Y="1" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="VCheckLib.cNeuralNetwork&lt;T&gt;.IterationChangedCallBack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>cNeuralNetwork.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAoBAAADAAoAABAAAAAAAAAAAAAAAAAQAgAIAAAAAA=</HashCode>
+      <FileName>cNeuralNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cNetwork" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAgIAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cNeuralNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cRecognize" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cRecognize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cSegment" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAARIIATADAABAABEgKQAoABiAKAwRAAABESEUAwAA=</HashCode>
+      <FileName>cSegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cSystem" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAACAAEAEAAIAAAAABAAAAAAAAAQAIA=</HashCode>
+      <FileName>cSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cTrain" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAEAIQAAAAAhAAAAAQACAAEAAAAAAAAAABA=</HashCode>
+      <FileName>cTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cUser" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAEAQAwEAICAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>cUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VCheckLib.cVehicle" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCABAAAIAAACAIAAAAAEACAAAAAAAAAEAgAAAAAA=</HashCode>
+      <FileName>cVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="VCheckLib.PreInput" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAA=</HashCode>
+      <FileName>cBPBase.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VCheckLib.Input" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAIAAAAAABAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>cBPBase.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VCheckLib.Hidden" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAIAAAAAABAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>cBPBase.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VCheckLib.Output&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAACAACABAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>cBPBase.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="VCheckLib.iBackPropagation&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAABBAAAAAAAAAAAAAAAAAAAAEEAAAgA=</HashCode>
+      <FileName>iBackPropagation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
